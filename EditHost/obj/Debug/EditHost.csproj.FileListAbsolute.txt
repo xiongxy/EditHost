@@ -1,0 +1,44 @@
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\bin\Debug\EditHost.exe.config
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\bin\Debug\EditHost.exe
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\bin\Debug\EditHost.pdb
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\MainWindow.g.cs
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\App.g.cs
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\EditHost_MarkupCompile.cache
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\EditHost_MarkupCompile.lref
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\MainWindow.baml
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\EditHost.g.resources
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\EditHost.Properties.Resources.resources
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\EditHost.csproj.GenerateResource.Cache
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\EditHost.exe
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\EditHost.pdb
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\obj\Debug\EditHost.csprojResolveAssemblyReference.cache
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\bin\Debug\EditHost.exe.CodeAnalysisLog.xml
+C:\Users\sa\Documents\Visual Studio 2015\Projects\MyDailyCode\EditHost\bin\Debug\EditHost.exe.lastcodeanalysissucceeded
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\bin\Debug\EditHost.exe.config
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\EditHost.exe
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\EditHost.pdb
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\bin\Debug\EditHost.exe
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\bin\Debug\EditHost.pdb
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\EditHost.csprojResolveAssemblyReference.cache
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\MainWindow.g.cs
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\App.g.cs
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\EditHost_MarkupCompile.cache
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\EditHost_MarkupCompile.lref
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\MainWindow.baml
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\EditHost.g.resources
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\EditHost.Properties.Resources.resources
+E:\Code\MyDownloadCode\MyDailyCode\Src\EditHost\obj\Debug\EditHost.csproj.GenerateResource.Cache
+E:\Code\MyDownloadCode\EditHost\EditHost\bin\Debug\EditHost.exe.config
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\EditHost.exe
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\EditHost.pdb
+E:\Code\MyDownloadCode\EditHost\EditHost\bin\Debug\EditHost.exe
+E:\Code\MyDownloadCode\EditHost\EditHost\bin\Debug\EditHost.pdb
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\EditHost.csprojResolveAssemblyReference.cache
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\MainWindow.g.cs
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\App.g.cs
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\EditHost_MarkupCompile.cache
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\EditHost_MarkupCompile.lref
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\MainWindow.baml
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\EditHost.g.resources
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\EditHost.Properties.Resources.resources
+E:\Code\MyDownloadCode\EditHost\EditHost\obj\Debug\EditHost.csproj.GenerateResource.Cache
